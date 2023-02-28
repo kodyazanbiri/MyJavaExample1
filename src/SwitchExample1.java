@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwitchExample {
+public class SwitchExample1 {
     //letter grades
     public static void main(String[] args) {
 

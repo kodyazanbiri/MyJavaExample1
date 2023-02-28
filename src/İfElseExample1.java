@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class İfElseExample {
+public class İfElseExample1 {
         // founding the  largest number that enter by user
         public static void main(String[] args) {
 
